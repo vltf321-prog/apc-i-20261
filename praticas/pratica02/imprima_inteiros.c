@@ -2,14 +2,14 @@
 
 int main(){
 
-int numero=10
-int numero=-5
-int numero=00004
+int numero=10;
+int numero=-5;
+int numero=00004;
 
-printf("%i\n", 10);
-printf("%i\n", -5);
-printf("%05i\n", 4);
+printf("%d\n", 10);
+printf("%f\n", -5);
+printf("%ld\n", 4);
     
 
-    return0;
+    return 0;
 }

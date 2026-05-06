@@ -18,11 +18,11 @@ printf("==============================\n");
 printf(" N O T A  L E G A L\n");
 printf("==============================\n");
 
-printf("produto  qtd  valor unit\n");
-printf("camiseta 002        39.99\n");
-printf("calca    001        89.90\n");
-printf("meia social 003      19.99\n");
-printf("total                229.85\n");
+printf("produto     qtd  valor unit\n");
+printf("camiseta    002        39.99\n");
+printf("calca       001        89.90\n");
+printf("meia social 003        19.99\n");
+printf("total                 229.85\n");
 
  
     return 0;

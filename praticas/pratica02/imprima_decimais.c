@@ -3,7 +3,7 @@
     int main(){
         
     double pi = 3.1415926;
-    printf("%e\n, pi");
+    printf("%e\n, 3.1415926");
     printf("%5.10s, pi");
 
 
