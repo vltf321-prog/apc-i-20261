@@ -2,7 +2,7 @@
 
 int main(){
     int  nota = 0;
-    printf("entre com uma nota de 1 a 5: ");
+    printf("entre com uma nota de 1 a 9: ");
     scanf("%i", &nota);
 
     // if(nota == 1) {
@@ -25,6 +25,10 @@ int main(){
         case 3: printf("ganhou tres estrelas ***\n"); break;
         case 4: printf("ganhou quatro estrelas ****\n"); break;
         case 5: printf("ganhou cinco estrelas *****\n"); break;
+        case 6: printf("ganhou seis estreleas ******\n"); break;
+        case 7: printf("ganhou sete estrelas *******\n"); break;
+        case 8: printf("ganhou oito estrelas ********\n"); break;
+        case 9: printf("ganhou nove estrelas *********\n"); break;
         default: printf("nota inavalida! tente de novo.\n"); 
     }
 
